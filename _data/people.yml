@@ -76,6 +76,14 @@
   linkedin: yawei-li-11013b203
   github: sandylaker
 
+- name: David Otte
+  photo: davido.jpg
+  info: PhD Student
+  info2: David is a PhD Student in the muniq.ai lab. He is currently working on Tabular Foundation Models and Symbolic Regression.
+  email: david.otte@stat.uni-muenchen.de
+  github: davidotte
+  linkedin: david-otte
+
 - name: Richard Paul
   photo: richi.jpg
   info: PhD Student (co-supervised)
