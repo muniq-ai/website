@@ -26,7 +26,7 @@
   photo: danield.jpg
   info: PhD Student (co-supervised)
   number_educ: 3
-  info2: Daniel is PhD Student in the muniq.ai lab (co-supervisor <a href="https://oduerr.github.io/about/">Prof. Oliver Duerr</a>) and works on uncertainty quantification in Bayesian neural networks.
+  info2: Daniel was a PhD Student in the muniq.ai lab (co-supervisor <a href="https://oduerr.github.io/about/">Prof. Oliver Duerr</a>) and worked on uncertainty quantification in Bayesian neural networks.
   email: daniel.dold@htwg-konstanz.de
   github: doldd
   
@@ -68,10 +68,10 @@
   linkedin: juliuskobialka
   github: j-kobialka
   
-- name: Yawei Li
+- name: Dr. Yawei Li
   photo: yaweil.jpg
-  info: PhD Student (collaborating)
-  info2: Yawei is a PhD student in Statistical Learning and Data Science Group (supervisor <a href="https://www.slds.stat.uni-muenchen.de/people/bischl/">Prof. Bernd Bischl</a>) and works on uncertainty quantification and explainability of large language models.
+  info: Former PhD Student (collaborating)
+  info2: Yawei was a PhD student in Statistical Learning and Data Science Group (supervisor <a href="https://www.slds.stat.uni-muenchen.de/people/bischl/">Prof. Bernd Bischl</a>) and worked on uncertainty quantification and explainability of large language models.
   email: yawei.li@stat.uni-muenchen.de
   linkedin: yawei-li-11013b203
   github: sandylaker
@@ -91,10 +91,10 @@
   email: r.paul@fz-juelich.de
   github: ripaul
 
-- name: Emanuel Sommer
+- name: Dr. Emanuel Sommer
   photo: emanuels.jpg
-  info: PhD Student
-  info2: Emanuel is a PhD Student in the muniq.ai lab. Previously he worked on dependence modeling in the realm of risk measure forecasting and as a Data Scientist, specializing in large-scale Learning-to-Rank Applications. He is currently working on Bayesian Deep Learning.
+  info: Former PhD Student
+  info2: Emanuel was a PhD Student in the muniq.ai lab. Previously, he worked on Sampling-based Inference for Bayesian Deep Learning.
   email: emanuel@stat.uni-muenchen.de
   linkedin: emanuelsommer
   github: EmanuelSommer
